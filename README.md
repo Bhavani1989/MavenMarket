@@ -86,7 +86,8 @@ Main transformations:
 - Revenue Gauge
 - Country Slicer (USA, Canada, Mexico)
 - Bookmark Navigation
-
+  
+![Image](https://github.com/user-attachments/assets/2c5bf4c4-bfba-490c-a550-60d22215bd70)
 ---
 
 ## 🧪 Product Analysis Dashboard
