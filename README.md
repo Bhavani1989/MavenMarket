@@ -157,6 +157,8 @@ This flexibility allows for **customized analysis** based on the business questi
 
 This dashboard is optimized for **regional managers and executives**, enabling them to monitor territory-level performance and dig into specific areas of interest using intuitive filters and field selectors.
 
+![Image](https://github.com/user-attachments/assets/9017e2e0-188d-447c-8f08-b1f59516c1a1)
+
 ---
 
 ## 🧭 Navigation & Usability
@@ -169,8 +171,6 @@ All report pages include **custom page navigation buttons** located in the left 
 - Region Analysis
 
 This enables users to move seamlessly between pages, improving user experience and making exploration more intuitive. Bookmarks and drill-throughs are also implemented to allow contextual deep-dives into specific data views.
-
-![Image](https://github.com/user-attachments/assets/9017e2e0-188d-447c-8f08-b1f59516c1a1)
 
 ---
 
