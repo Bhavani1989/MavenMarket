@@ -99,7 +99,22 @@ This page provides in-depth insights into product-level performance and is acces
 
 ### 🔍 Purpose of Drill-Throughs:
 - Analyze **top-performing products** within a specific **brand** or **geographical region**
-- Identify **sales drivers**, **profit leaders**, and **return trends** for filtered segments 
+- Identify key contributors to revenue, profit, and returns
+- Understand product performance in specific contexts
+
+### 🧰 Custom Tooltip Feature
+A custom-designed **product tooltip** is enabled on this page:
+- **Pops up when hovering over any product**
+- Displays detailed metrics:
+  - Product Name
+  - Revenue
+  - Units Sold
+  - Profit
+  - Returns
+  - Return Rate
+  - **Mini Sales Trend Chart**
+
+This tooltip allows users to **quickly assess product performance at a glance** without leaving the current visual context.
 
 ### 🧩 Visual Components:
 - **Top 20 Products** in the selected brand or district
