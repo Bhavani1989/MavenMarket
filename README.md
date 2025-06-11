@@ -170,6 +170,8 @@ All report pages include **custom page navigation buttons** located in the left 
 
 This enables users to move seamlessly between pages, improving user experience and making exploration more intuitive. Bookmarks and drill-throughs are also implemented to allow contextual deep-dives into specific data views.
 
+![Image](https://github.com/user-attachments/assets/9017e2e0-188d-447c-8f08-b1f59516c1a1)
+
 ---
 
 > 🔄 Page includes built-in navigation for seamless transitions across report views.
