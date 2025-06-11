@@ -114,6 +114,9 @@ A custom-designed **product tooltip** is enabled on this page:
   - Return Rate
   - **Mini Sales Trend Chart**
 
+    ![Image](https://github.com/user-attachments/assets/7915c4b0-4120-4da1-8d6e-e70f816e8c18)
+    
+
 This tooltip allows users to **quickly assess product performance at a glance** without leaving the current visual context.
 
 ### 🧩 Visual Components:
