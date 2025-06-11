@@ -110,6 +110,7 @@ This page provides in-depth insights into product-level performance and is acces
 
 This drill-through functionality adds context to performance by allowing users to **zoom in on specific contributors** within broader metrics, making the dashboard more actionable and exploratory.
 
+![Image](https://github.com/user-attachments/assets/d3a5c21c-8cf7-4550-b75e-479d6287b0ff)
 ---
 
 ## 👥 Customer Analysis Dashboard
