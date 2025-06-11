@@ -91,8 +91,6 @@ Main transformations:
 
 ## 🧪 Product Analysis Dashboard
 
-![Product Analysis Dashboard](ProductAnalysis.png)
-
 This page provides in-depth insights into product-level performance and is accessible via **drill-throughs** from:
 
 - **Product Brand** in the **Main Dashboard**
@@ -111,7 +109,6 @@ This page provides in-depth insights into product-level performance and is acces
 
 This drill-through functionality adds context to performance by allowing users to **zoom in on specific contributors** within broader metrics, making the dashboard more actionable and exploratory.
 
-
 ---
 
 ## 👥 Customer Analysis Dashboard
@@ -127,8 +124,6 @@ This drill-through functionality adds context to performance by allowing users t
 ---
 
 ## 🌍 Region Analysis Dashboard
-
-![Region Analysis Dashboard](RegionAnalysis.png)
 
 This dashboard provides a detailed regional breakdown of sales performance, including trends, returns, and top-performing districts.
 
@@ -175,4 +170,30 @@ This enables users to move seamlessly between pages, improving user experience a
 > 🔄 Page includes built-in navigation for seamless transitions across report views.
 
 
-> 📌 *Note: All insights are based on 1997–1998 data, used for analytical demonstration only.*
+## 📌 Notes
+
+- This model uses synthetic data and is ideal for **learning**, **training**, and **demo** purposes.
+- It demonstrates core **data modeling**, **DAX calculations**, and **dashboarding** skills used in business analytics.
+
+---
+
+## 📝 Future Enhancements
+
+- Add **forecasting models** using Power BI built-in forecasting or Python integration.
+- Include **RLS (Row-Level Security)** for multi-user reporting environments.
+- Integrate **external benchmarking datasets** for comparative analysis.
+- Deploy the report to Power BI Service for automated refresh and sharing.
+
+---
+## 📄 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+---
+
+## 🙌 Acknowledgments
+
+- Maven Analytics Learning & Development team
+- Power BI Community for DAX and visualization best practices
+
+---
